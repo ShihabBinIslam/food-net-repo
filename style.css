@@ -1,0 +1,74 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.col-orange{
+    color: rgb(241, 129, 23);
+}
+h1{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 20px;
+    letter-spacing: -0.001px;
+}
+.half-width img{
+    width: 100%;
+}
+#scaling{
+    margin-top: 10%;
+}
+.flexible-container{
+    display: flex;
+    margin-top: 20px;
+}
+#second-woman{
+    width: 500px;
+    height: 600px;
+    padding-top: 30px;
+}
+#para-text{
+    color: gray;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+
+}
+#first-img{
+    max-width: 100%;
+    margin-top: -20px;
+    margin-right: 5%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    height: 40px;
+    width: 30px;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+#bc-image{
+    background-image: url("images/7.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gapping{
+    padding-top: 10%;
+}
+h2{
+    color: gray;
+    font-weight: 700;
+    font-size: 60px;
+    margin-right: 20%;
+}
+#para-font{
+    font-size: 20px;
+    margin-right: 20%;
+    margin-bottom: 10%;
+}
