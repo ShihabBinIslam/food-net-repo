@@ -35,12 +35,10 @@ h1{
 .half-width{
     width: 50%;
     padding-left: 5%;
-
 }
 #first-img{
     max-width: 100%;
     margin-top: -20px;
-    margin-right: 5%;
 }
 .link-button{
     text-decoration: none;
@@ -56,7 +54,7 @@ h1{
 #bc-image{
     background-image: url("images/7.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain ;
 }
 #gapping{
     padding-top: 10%;
@@ -71,4 +69,86 @@ h2{
     font-size: 20px;
     margin-right: 20%;
     margin-bottom: 10%;
+}
+#manufacturing-area{
+    margin-top: 10%;
+}
+#col-recipe{
+    font-size: 60px;
+    font-weight: 800;
+    color: gray;
+    text-align: center;
+    padding-left: 10%;
+}
+#txt-managing{
+    margin-left: 10%;
+    text-align: center;
+}
+.img-managing{
+    padding-top: 5%;
+    width: 400px;
+    height: 350px;
+}
+.bold-line{
+    font-size: 40px;
+    font-weight: 900;
+}
+.norm-line{
+    font-weight: 100;
+}
+.box-creator{
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 20px;
+    box-shadow: 20px 20px 60px gray;
+}
+#img-border{
+    border-radius:40px 40px 40px 40px;
+}
+.gap-managing{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#box-merging{
+    width: 900px;
+    height: 150px;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding-left: 7%;
+    padding-right: 7%;
+    border-radius: 20px;
+    box-shadow: 20px 20px 60px gray
+}
+.txt-aln{
+    font-size: 40px;
+    text-align: center;
+}
+.txt-aln2{
+    text-align: center;
+}
+
+#new-col{
+    color: gray;
+}
+#txt-aln3{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 40px;
+}
+#txt-aln4{
+    text-align: center;
+    font-size: 10px;
+    color: rgb(30, 159, 199);
+    padding-top: 40px;
+}
+#black-box{
+    padding-top: 10px;
+    width: 1570px;
+    height:250px;
+    background-color: black;
 }
